@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Fundamentos Matemáticos para Sistemas de Informação II
 
-You can use the [editor on GitHub](https://github.com/jsvitor/fmsi-bsi-ufrpe/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## I → Somas, Indução e Recursão
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Problemas recursivos
+* Somatórios
+* Sequências e relações de recorrência
+* Princípio da indução
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [x] 📑 Lista 1 - Módulo I - Recursividade e relações de recorrência - Semana 1
+- [ ] 📑 Lista 2 - Módulo I - Somas e sequência - Semana 2
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## II → Crescimento de Funções e Noções de Complexidade
 
-- Bulleted
-- List
+* Tipos de funções e seus gráficos
+* Comportamento assintótico de funções
+* Big-O, Big-Omega; Big-Theta
+* Análise de algoritmos
 
-1. Numbered
-2. List
+- [ ] 📑 Lista 3 - Módulo II - Crescimento de funções - Semana 3
+- [ ] 📑 Lista 4 - Módulo II - Crescimento de funções - Semanas 4 e 5
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## III → Análise Combinatória
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Princípios da adição e da multiplicação
+* Permutações, arranjos e combinações
+* Coeficientes binomiais e triângulo de Pascal
 
-### Jekyll Themes
+- [ ] 📑 Lista 5 - Módulo III - Análise Combinatória - Semanas 6 e 7
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsvitor/fmsi-bsi-ufrpe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## IV → Probabilidade Discreta
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Conceitos básicos
+* Solução de problemas práticos envolvendo Monte Carlo
+
+- [ ] 📑 Lista 6 - Módulo IV (Parte 1) - Probabilidades
+- [ ] 📑 Lista 7 - Módulo V (Parte 2) - Simulação
+
