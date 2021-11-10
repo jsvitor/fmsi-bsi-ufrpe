@@ -29,16 +29,14 @@
 * Permutações, arranjos e combinações
 * Coeficientes binomiais e triângulo de Pascal
 
-<!--
 - [ ] 📑 Lista 5 - Módulo III - Análise Combinatória - Semanas 6 e 7
--->
 
 ## IV → Probabilidade Discreta
 
 * Conceitos básicos
 * Solução de problemas práticos envolvendo Monte Carlo
 
-<!--
+
 - [ ] 📑 Lista 6 - Módulo IV (Parte 1) - Probabilidades
 - [ ] 📑 Lista 7 - Módulo V (Parte 2) - Simulação
--->
+
