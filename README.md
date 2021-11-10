@@ -7,8 +7,8 @@
 * Princípio da indução
 
 
-- [x] 📑 Lista 1 - Módulo I - Recursividade e relações de recorrência - Semana 1
-- [ ] 📑 Lista 2 - Módulo I - Somas e sequência - Semana 2
+- [x] [📑 Lista 1 - Módulo I - Recursividade e relações de recorrência - Semana 1](https://drive.google.com/file/d/1-y2fC3d4jaXvi8QbPtmAJEEltXm7hmlm/view?usp=sharing)
+- [ ] [📑 Lista 2 - Módulo I - Somas e sequência - Semana 2](https://drive.google.com/file/d/1Bt03qp3EF3rrNC5HqZbzHG7_vyn93YSM/view?usp=sharing)
 
 
 ## II → Crescimento de Funções e Noções de Complexidade <sub>1VA</sub>
