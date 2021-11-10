@@ -1,6 +1,6 @@
 # Fundamentos Matemáticos para Sistemas de Informação
 
-## I → Somas, Indução e Recursão
+## I → Somas, Indução e Recursão | 1 VA
 
 * Problemas recursivos
 * Somatórios
@@ -12,7 +12,7 @@
 - [ ] 📑 Lista 2 - Módulo I - Somas e sequência - Semana 2
 
 
-## II → Crescimento de Funções e Noções de Complexidade
+## II → Crescimento de Funções e Noções de Complexidade | 1 VA
 
 * Tipos de funções e seus gráficos
 * Comportamento assintótico de funções
@@ -23,7 +23,7 @@
 - [ ] 📑 Lista 4 - Módulo II - Crescimento de funções - Semanas 4 e 5
 
 
-## III → Análise Combinatória
+## III → Análise Combinatória | 2 VA
 
 * Princípios da adição e da multiplicação
 * Permutações, arranjos e combinações
@@ -31,7 +31,7 @@
 
 - [ ] 📑 Lista 5 - Módulo III - Análise Combinatória - Semanas 6 e 7
 
-## IV → Probabilidade Discreta
+## IV → Probabilidade Discreta | 2 VA
 
 * Conceitos básicos
 * Solução de problemas práticos envolvendo Monte Carlo
